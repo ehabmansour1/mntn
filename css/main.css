@@ -439,10 +439,10 @@ body {
 }
 .footer .container .col-1 .text h4 {
   font-size: 40px;
-  font-weight: 500;
   color: white;
   margin-bottom: 15px;
   font-family: 'Bentham', serif;
+  letter-spacing: 3px;
 }
 @media (max-width:768px) {
   .footer .container .col-1 .text h4 + p {
